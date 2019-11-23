@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Assassin's Creed IV: Black Flag Home Page</title>
+		<description>Latest information about the game.</description>
+		<item>
+			<title>About Assassin's Creed IV: Black Flag</title>
+			<link>http://studentskisajtovi/30_13/BlackFlag/index.html</link>
+			<description>General information about the game and its characters.</description>
+		</item>
+		<item>
+			<title>New pictures in gallery</title>
+			<link>http://studentskisajtovi/30_13/BlackFlag/gallery.html</link>
+			<description>New images every week!</description>
+		</item>
+		<item>
+			<title>About Freedom Cry, DLC for Black Flag</title>
+			<link>http://studentskisajtovi/30_13/BlackFlag/dlc.html</link>
+			<description>General information about DLC and its characters.</description>
+		</item>
+	</channel>
+</rss>
