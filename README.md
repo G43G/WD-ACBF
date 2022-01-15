@@ -1,6 +1,4 @@
 # WD-ACBF
-Website from Web Design Course in ICT
-
-TO DO:
+Website from ICT Web Design course
 
 1. Download and open index.html.
